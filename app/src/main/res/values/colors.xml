@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#44906E</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#44906E</color>
+    <color name="minifluxColor">#44906E</color>
+    <color name="selection">#22463B</color>
+    <color name="selection_image">#6022463B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="materialDarkBG">#141414</color>
+    <color name="materialDarkSurface">#424242</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="redLogout">#880000</color>
+    <color name="disabled">#ADADAD</color>
+    
+</resources>
